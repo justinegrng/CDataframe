@@ -1,15 +1,13 @@
 # CDataframe 🖥️
-[Lien vers le dépôt GitHub](https://github.com/EFREI-BDX/projet-langage-c-justine-garnung-yelena-sainte-rose.git) 
+![Bannière GitHub Projet C Dataframe](https://github.com/user-attachments/assets/7ca02927-208d-49f7-bb71-4d1a0fd90828)
 
 ## Projet C: CDataframe
+[Lien vers le dépôt GitHub](https://github.com/EFREI-BDX/projet-langage-c-justine-garnung-yelena-sainte-rose.git)  
+  
 Un data frame est une structure bidimensionnelle. Cela signifie que les données sont alignées de façon tabulaire en colonnes et en lignes.
 
-## Membres du projet
-> Justine GARNUNG    [![linkedin](https://github.com/justinegrng/Projet-Transverse/assets/89320065/eba91f42-9ed4-4ef3-8502-ca4925d64d8f)](https://www.linkedin.com/in/justine-garnung-674571232/)  
-> Yéléna SAINTE-ROSE BRUNY    [![linkedin](https://github.com/justinegrng/Projet-Transverse/assets/89320065/eba91f42-9ed4-4ef3-8502-ca4925d64d8f)](https://www.linkedin.com/in/yelesr/)  
-
 ## Files organization
-> [!TIP]
+> [!NOTE]
 > Il suffit de cliquer ci-dessous sur "📁 Projet CDataframe" afin de visualiser l'arborescence de notre projet.
 <details>
 <summary> 📁 Projet CDataframe </summary>
@@ -80,3 +78,7 @@ Dans le cadre de ce projet, un menu a été mis en place pour permettre à l'uti
 - `delete_row` → *Supprime une ligne d'un dataframe* ❌
 - `delete_row_print` → *Affiche un dataframe après avoir supprimé une ligne* ❌
 - `delete_value_at_index` → *Supprime une valeur à un index donné dans une colonne* ❌
+
+## Membres du projet
+> Justine GARNUNG    [![linkedin](https://github.com/justinegrng/Projet-Transverse/assets/89320065/eba91f42-9ed4-4ef3-8502-ca4925d64d8f)](https://www.linkedin.com/in/justine-garnung-674571232/)  
+> Yéléna SAINTE-ROSE BRUNY    [![linkedin](https://github.com/justinegrng/Projet-Transverse/assets/89320065/eba91f42-9ed4-4ef3-8502-ca4925d64d8f)](https://www.linkedin.com/in/yelesr/)  
